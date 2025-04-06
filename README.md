@@ -78,21 +78,7 @@ npm start
 - UX (umee)
 
 ---
-
-Анонсы и статьи: https://t.me/raznorabochiy_notes
-
-Вопросы и обсуждения: https://t.me/raznorabochiy_chat
+forked from raznorabochiy.eth
+repo lost
 
 ---
-
-**Поблагодарить автора можно отправив донат в любой evm сети на:**
-
-`0xE8eAbec7CE9e8Bf78A766E8556E542BC2C9446ae`
-
-или
-
-raznorabochiy.eth
-
-raznorabochiy.arb
-
-raznorabochiy.bnb
